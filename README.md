@@ -3,7 +3,7 @@
 
 Below are many of the *Jupyter* notebook using *Python* for various tasks. I don't claim any originality. These are notes that I compiled from many sources during my learning experience. As possible, I have provided the references. 
 
-Available Python Code
+Available Python Code (working version)
 
 - Introduction
 - Strings
