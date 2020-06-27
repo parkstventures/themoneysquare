@@ -38,6 +38,16 @@ Machine Learning
 - Classification
 
 
+create a local version of files
+
+# make a pre-existing directory a git repo and connect it with local remote
+cd ~/test_git_local_repo/option_c/local_repo
+git init
+git add . ; git commit -m "inital commit on master" # properly init master
+git remote add origin ~/test_git_local_repo/option_c/local_remote.git
+git remote -v show origin # see there is no the tracking configured (unlike with git clone), so you need to push with -u
+git push -u origin master # -u to set upstream
+
 check out articles on money and investing at  http://www.themoneysquare.com
 
 Questions: <sangames@themoneysquare.com>
