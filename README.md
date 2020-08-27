@@ -50,4 +50,4 @@ git push -u origin master # -u to set upstream
 
 check out articles on money and investing at  http://www.themoneysquare.com
 
-Questions: <sangames@themoneysquare.com>
+Questions: <suburaj@themoneysquare.com>
